@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Java**, **Spring**, **Spring Boot**.
 
-💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**, **Angular**.
+💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**,  **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**, **Angular**.
 
 📫 How to reach me: **faysalhossain4455@gmail.com**  
 
