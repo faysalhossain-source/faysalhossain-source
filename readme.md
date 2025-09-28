@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faysal Hossain</h1>
 <h3 align="center">A passionate java developer from Bangladesh</h3>
 
-🏋️ I’m currently training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
+🏋️ Graduated from [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
-🌱 I’m currently learning **Java**, **Spring**, **Spring Boot**.
+🌱 I’m currently learning **New Things**.
 
-💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**,  **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**, **Angular**.
+💬 Ask me about: **HTML**, **CSS** , **JavaScript**,** jQuery**,** Oracle Database **,** PostgreSQL **,** UML **,** Java**,** JSP **,** JSF **,** Angular **,** Spring Boot **,** Hibernate **,** Flutter **,** Android**.
 
 📫 How to reach me: **faysalhossain4455@gmail.com**  
 
