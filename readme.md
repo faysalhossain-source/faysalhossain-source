@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **New Things**.
 
-💬 Ask me about: ** HTML **, ** CSS ** , ** JavaScript **,** jQuery **,** Oracle Database **,** PostgreSQL **,** UML **,** Java **,** JSP **,** JSF **,** Angular **,** Spring Boot **,** Hibernate **,** Flutter **,** Android **.
+💬 Ask me about: **HTML**, **CSS** , **JavaScript**,** jQuery **,** Oracle Database **,** PostgreSQL **,** UML **,** Java **,** JSP **,** JSF **,** Angular **,** Spring Boot **,** Hibernate **,** Flutter **,** Android **.
 
 📫 How to reach me: **faysalhossain4455@gmail.com**  
 
