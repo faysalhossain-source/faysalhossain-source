@@ -5,9 +5,10 @@
 
 🌱 I’m currently learning **New Things**.
 
-💬 Ask me about: HTML • CSS • JavaScript • jQuery • MySQL • Oracle Database • PostgreSQL • UML • Java • JSP • JSF • Angular • Spring Boot • Hibernate • Flutter • Android.
+💬 Ask me about: HTML • CSS • JavaScript • jQuery • Oracle Database • PostgreSQL • UML • Java • JSP • JSF • Angular • Spring Boot • Hibernate • Flutter • Android.
 
-📫 How to reach me: **faysalhossain4455@gmail.com**  
+📫 How to reach me: **faysalhossain4455@gmail.com** 
+🌐 LinkedIn:https://www.linkedin.com/in/md-faysal-hossain-1b48a1263/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
