@@ -7,7 +7,7 @@
 
 💬 Ask me about: HTML • CSS • JavaScript • jQuery • Oracle Database • PostgreSQL • UML • Java • JSP • JSF • Angular • Spring Boot • Hibernate • Flutter • Android.
 
-📫 How to reach me: **faysalhossain4455@gmail.com** .
+📫 How to reach me: **faysalhossain4455@gmail.com** .<br>
 🌐 LinkedIn:https://www.linkedin.com/in/md-faysal-hossain-1b48a1263/
 
 <h3 align="left">Connect with me:</h3>
